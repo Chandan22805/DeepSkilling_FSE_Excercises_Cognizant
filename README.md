@@ -55,9 +55,9 @@ Repository containing my solutions for the Cognizant Digital Nurture 5.0 Java Fu
 | PL/SQL Programming | ✅ |
 | JUnit & Mockito | ✅ |
 | SLF4J Logging | ✅ |
-| Spring Core & Maven | 🔄 |
+| Spring Core & Maven | ✅ |
 | Spring Data JPA & Hibernate | 🔄 |
-| Spring REST | ⏳ |
-| Microservices | ⏳ |
+| Spring REST | 🔄 |
+| Microservices | 🔄 |
 | React | ⏳ |
 | DevOps | ⏳ |

@@ -1,0 +1,1 @@
+import { CanDeactivateFn } from '@angular/router'; import { ReactiveEnrollmentFormComponent } from '../pages/reactive-enrollment-form/reactive-enrollment-form.component'; export const unsavedChangesGuard:CanDeactivateFn<ReactiveEnrollmentFormComponent>=(c)=>!c.enrollForm.dirty||confirm('You have unsaved changes. Leave?');

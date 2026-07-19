@@ -58,6 +58,5 @@ Repository containing my solutions for the Cognizant Digital Nurture 5.0 Java Fu
 | Spring Core & Maven | ✅ |
 | Spring Data JPA & Hibernate | ✅ |
 | Spring REST | ✅ |
-| Microservices | 🔄 |
-| React | ⏳ |
-| DevOps | ⏳ |
+| Microservices | ✅ |
+| React | ✅ |
